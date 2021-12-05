@@ -44,3 +44,7 @@
 > 관리자 페이지
 * 대시보드(DashBoard)
 ![SHOP](/capture_image/admin.png) 
+* 주문(OrderPage)
+* 상품등록(ProductPage)
+* 공지사항(NoticePage)
+* 회원관리
