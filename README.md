@@ -54,4 +54,4 @@
 ![Admin_member](/capture_image/admin_member.png)
 
 #### 포토폴리오 링크 ####
-> 
+> [포토폴리오 바로가기] http://
