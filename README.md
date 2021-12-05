@@ -5,6 +5,8 @@
  * 개발 : IntelliJ, Oracle , Visual code
  * 사용 언어 : Java(JDK), Oracle SQL, HTML5, CSS3, Javascript(ES6)
  * 사용 기술 : JDBC,Thymeleaf,jQuery,Ajax,Spring-Boot(2.5),Mail API,JPA/Hiberrate, Restful API, QueryDSL
+
+
 #### 프로젝트 상세내용
 ##### 사이트 선택 이유 : 다른 중고 사이트들과 달리 입찰 시스템 기능이 탑재되어 있어 선택하게 되었습니다.
 ##### 구현목표
