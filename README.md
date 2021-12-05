@@ -22,3 +22,4 @@
 4. 상품관리(상품 등록/수정 및 게시상태)
 ### 구동 화면 ###
 * 사용자 메인페이지
+![screenshot](/capture_image/main.png)
