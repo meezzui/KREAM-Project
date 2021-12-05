@@ -38,5 +38,9 @@
 * 스타일(STYLE_Page)
 ![SHOP](/capture_image/style.png) 
 * 스타일 게시물 클릭시 보여지는 페이지
-![SHOP](/capture_image/style_info1.png)
-![SHOP](/capture_image/style_info2.png) 
+![SHOP](/capture_image/style_info2.png)
+![SHOP](/capture_image/style_info1.png) 
+
+> 관리자 페이지
+* 대시보드(DashBoard)
+![SHOP](/capture_image/admin.png) 
