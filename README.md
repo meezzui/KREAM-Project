@@ -21,5 +21,16 @@
 3. 문의 및 공지사항 관리
 4. 상품관리(상품 등록/수정 및 게시상태)
 ### 구동 화면 ###
-* 사용자 메인페이지
-![screenshot](/capture_image/main1.png)
+> 사용자 페이지
+* 메인(MainPage)
+![main1](/capture_image/main1.png)
+![main2](/capture_image/main2.png)
+* 로그인(LoginPage)
+![login](/capture_image/login.png)
+* 상품(SHOP_Page)
+![SHOP](/capture_image/shop.png)
+* 입찰 시스템(BiddingPage)
+![SHOP](/capture_image/shop1.png)
+![SHOP](/capture_image/shop2.png)
+* 스타일(STYLE_Page)
+![SHOP](/capture_image/style.png) 
