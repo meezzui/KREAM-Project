@@ -38,7 +38,7 @@
 * 스타일(/social/trending)
 ![STYLE](/capture_image/style.png) 
 * 스타일 게시물 클릭시 보여지는 페이지(/social/popular)
-
+![STYLE_info2](/capture_image/style_info2.png) 
 ![STYLE_info2](/capture_image/style_info1.png) 
 
 > 관리자 페이지
