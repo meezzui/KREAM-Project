@@ -1,4 +1,4 @@
-## KREAM 리셀 사이트 클론코딩 / Spring-Boot, Oracle
+## KREAM 리셀 사이트 / Spring-Boot, Oracle
  * 개발 기간 : 2021.07.30 ~ 2021.10.31
  * 주제 : 한정판 리셀(KREAM)
  * 개발 : IntelliJ, Oracle , Visual Studio code
